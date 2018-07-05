@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 uups
-=======
-insert actual location!
->>>>>>> feature-test
